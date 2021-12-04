@@ -1,6 +1,7 @@
 ### Hello World 👋
 ### My name is Surya V and I'm an undergad at SKCET coimbatore. I am highly interested in Full Stack Web Development and an active learner.
-
+### Programming Languages : JAVA, JavaScript, Python, C, C++.
+### FrameWorks : ReactJS, NodeJS, ExpressJS, JAVA AWT, JAVA Swing.
 
 <!--
 - 🔭 I’m currently working on ...
