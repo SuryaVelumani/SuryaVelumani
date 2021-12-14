@@ -6,7 +6,7 @@
  - ⚡Programming Languages : JAVA, JavaScript, Python, C, C++.
  - ⚡FrameWorks : ReactJS, NodeJS, ExpressJS, JAVA AWT, JAVA Swing.
 ### :bar_chart: Statistics
-
+[stats]
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
