@@ -28,6 +28,12 @@
 
 ### :bar_chart: Statistics
 ![stats]
+ 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://in.linkedin.com/in/surya-velumani-3084a41ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-safwan-s-b54579160/" height="30" width="40" /></a>
+<a href="https://leetcode.com/19euec156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdsafwan3102001" height="30" width="40" /></a>
+</p>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
