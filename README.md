@@ -1,6 +1,6 @@
 
 <!--Links-->
-[stats]: https://github-readme-stats.vercel.app/api?username=suryavelumani&show_icons=true&locale=en&theme=light
+[stats]: https://github-readme-stats.vercel.app/api?username=suryavelumani&show_icons=true&locale=en&theme=dark
 <h1> Hello World 👋 🚀 </h1>
  My name is Surya V and I'm an undergad at SKCET coimbatore. I am highly interested in Full Stack Web Development and an active learner.</br>
  - ⚡Programming Languages : JAVA, JavaScript, Python, C, C++.</br>
@@ -33,7 +33,7 @@
 
 ### :bar_chart: Statistics
 ![stats]
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryaVelumani&theme=light" alt="safwan310" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryaVelumani&theme=dark" alt="safwan310" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://in.linkedin.com/in/surya-velumani-3084a41ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-safwan-s-b54579160/" height="30" width="40" /></a>
