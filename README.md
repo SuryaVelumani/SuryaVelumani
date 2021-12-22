@@ -1,6 +1,6 @@
 
 <!--Links-->
-[stats]: https://github-readme-stats.vercel.app/api?username=suryavelumani&show_icons=true&locale=en&theme=lightusername=SuryaVelumani&include_all_commits=true&count_private=true&show_icons=true&title_color=3498db&bg_color=ffffff00&text_color=718096
+[stats]: https://github-readme-stats.vercel.app/api?username=suryavelumani&show_icons=true&locale=en&theme=light
 <h1> Hello World 👋 🚀 </h1>
  My name is Surya V and I'm an undergad at SKCET coimbatore. I am highly interested in Full Stack Web Development and an active learner.</br>
  - ⚡Programming Languages : JAVA, JavaScript, Python, C, C++.</br>
