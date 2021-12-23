@@ -1,7 +1,7 @@
 
 <!--Links-->
 [stats]: https://github-readme-stats.vercel.app/api?username=suryavelumani&show_icons=true&locale=en&theme=dark
-<h1> Hello World 👋 🚀 </h1>
+<h1 align="center"> Hello World 👋 🚀 </h1>
  My name is Surya V and I'm an undergad at SKCET coimbatore. I am highly interested in Full Stack Web Development and an active learner.</br>
  - ⚡Programming Languages : JAVA, JavaScript, Python, C, C++.</br>
  - ⚡FrameWorks : ReactJS, NodeJS, ExpressJS, JAVA AWT, JAVA Swing.
