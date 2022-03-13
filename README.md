@@ -31,14 +31,16 @@
    <a href="" target="_blank"> <img src="https://emojis.slackmojis.com/emojis/images/1516177030/3398/opencv.png?1516177030" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-### :bar_chart: Statistics
-![stats]
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryaVelumani&theme=dark" alt="" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://in.linkedin.com/in/surya-velumani-3084a41ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://leetcode.com/19euec156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
 </p>
+ 
+### :bar_chart: Statistics
+![stats]
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryaVelumani&theme=dark" alt="" /></p>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
