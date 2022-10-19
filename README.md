@@ -11,7 +11,6 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="" target="_blank"> <img src="https://slackmojis.com/emojis/314-flask/download" alt="java" width="40" height="40"/> </a> 
  <a href="" target="_blank"> <img src="https://img.icons8.com/color/344/c-programming.png" alt="java" width="40" height="40"/> </a> 
  <a href="" target="_blank"> <img src="https://img.icons8.com/color/452/c-plus-plus-logo.png" alt="java" width="40" height="40"/> </a> 
  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
@@ -31,6 +30,9 @@
 <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
    <a href="" target="_blank"> <img src="https://emojis.slackmojis.com/emojis/images/1516177030/3398/opencv.png?1516177030" alt="postman" width="40" height="40"/> </a> 
 </p>
+   <a href="" target="_blank"> <img src="https://slackmojis.com/emojis/314-flask/download" alt="java" width="40" height="40"/> </a> 
+  <a href="" target="_blank"> <img src="https://seeklogo.com/images/S/struts-logo-8759EBE252-seeklogo.com.png?v=637830213440000000" alt="java" width="40" height="40"/> </a> 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
