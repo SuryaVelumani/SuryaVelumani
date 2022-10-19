@@ -32,6 +32,7 @@
 </p>
    <a href="" target="_blank"> <img src="https://slackmojis.com/emojis/314-flask/download" alt="java" width="40" height="40"/> </a> 
   <a href="" target="_blank"> <img src="https://seeklogo.com/images/S/struts-logo-8759EBE252-seeklogo.com.png?v=637830213440000000" alt="java" width="40" height="40"/> </a> 
+  <a href="" target="_blank"> <img src="https://slackmojis.com/emojis/4793-sqlite/download" alt="java" width="40" height="40"/> </a> 
 
 
 <h3 align="left">Connect with me:</h3>
